@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/421.7e9e4de6.chunk.css","mappings":"AAAA,sBACE,cACF,CAEA,uBACE,UAAW,CACX,yBACF","sources":["components/Greeting/Greeting.module.css"],"sourcesContent":[".text {\n  font-size: 30px;\n}\n\n.link {\n  color: blue;\n  text-decoration: underline;\n}\n"],"names":[],"sourceRoot":""}
