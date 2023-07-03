@@ -12,9 +12,8 @@ export default function LoginForm() {
 
   const handleSubmit = e => {
     e.preventDefault();
-    console.log(e.target.elements);
+
     const { email, password } = e.target.elements;
-    console.log(email);
     const data = { email: email.value, password: password.value };
 
     dispatch(login(data));
